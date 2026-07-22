@@ -6,15 +6,15 @@
 
 Construyendo APIs robustas, automatizaciones y productos donde la inteligencia artificial resuelve problemas reales.
 
-[![](https://img.shields.io/badge/📧_Email-ummel.devs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ummel.devs@gmail.com)
-[![](https://img.shields.io/badge/📍_Ubicación-Cali,_Colombia-2EA44F?style=flat-square&logo=google-maps&logoColor=white)](#)
-[![](https://img.shields.io/badge/📱_Teléfono-(+57)_319_313_8107-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573193138107)
+[![](https://img.shields.io/badge/Email-ummel.devs@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ummel.devs@gmail.com)
+[![](https://img.shields.io/badge/Ubicación-Cali,_Colombia-2EA44F?style=flat-square&logo=google-maps&logoColor=white)](#)
+[![](https://img.shields.io/badge/Teléfono-(+57)_319_313_8107-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573193138107)
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Desarrolladora en formación con enfoque **back-end**, actualmente cursando el 4.º trimestre de la **Tecnología en Análisis y Desarrollo de Software (SENA)** y egresada del Bootcamp **Mujeres Digitales**.
 
@@ -24,7 +24,7 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 
 ---
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 <div align="center">
 
@@ -40,9 +40,9 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🔹 API REST — Amuna
+### API REST — Amuna
 **Noviembre 2025** · [Repositorio](https://github.com/Mymelodynvn/Amuna.git)
 
 - Backend con **NestJS + TypeScript** y arquitectura modular.
@@ -54,7 +54,7 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 
 ---
 
-### 🔹 Probador Virtual con IA — Lookitry _(proyecto colaborativo)_
+### Probador Virtual con IA — Lookitry _(proyecto colaborativo)_
 **Abril 2026** · [lookitry.com](https://lookitry.com/)
 
 - Plataforma de prueba virtual de ropa con **IA**.
@@ -66,9 +66,9 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 
 ---
 
-## 🎓 Formación académica
+## Formación académica
 
-### 📘 SENA — Servicio Nacional de Aprendizaje
+### SENA — Servicio Nacional de Aprendizaje
 **Tecnología en Análisis y Desarrollo de Software**  
 `Jul 2025 – Jul 2027` · *Cursando — 4.º trimestre*
 
@@ -78,7 +78,7 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 - **POO**, lógica y fundamentos sólidos.
 - Bases de **diseño web** orientado al usuario.
 
-### 🎯 Bootcamp Backend Developer — "Mujeres Digitales" (Organización Key)
+### Bootcamp Backend Developer — "Mujeres Digitales" (Organización Key)
 `Sep 2025 – Nov 2025` · *Culminado*
 
 - Formación práctica en back-end con **Node.js** y **NestJS**.
@@ -87,29 +87,29 @@ Trabajo con **NestJS**, **Node.js** y **TypeScript** aplicando arquitectura modu
 
 ---
 
-## 💡 Valores profesionales
+## Valores profesionales
 
-- 🌱 **Aprendizaje continuo** — siempre explorando nuevas herramientas y metodologías.
-- 🤝 **Trabajo colaborativo** — comunicación efectiva en entornos de equipo.
-- 🎯 **Orientación a resultados** — atención al detalle y buenas prácticas de código.
-- 🔄 **Adaptabilidad** — flexibilidad ante nuevos retos y entornos cambiantes.
+- **Aprendizaje continuo** — siempre explorando nuevas herramientas y metodologías.
+- **Trabajo colaborativo** — comunicación efectiva en entornos de equipo.
+- **Orientación a resultados** — atención al detalle y buenas prácticas de código.
+- **Adaptabilidad** — flexibilidad ante nuevos retos y entornos cambiantes.
 
 ---
 
-## 🌎 Idiomas
+## Idiomas
 
-- 🇪🇸 **Español** — Nativo
-- 🇬🇧 **Inglés** — Básico (A1)
+- **Español** — Nativo
+- **Inglés** — Básico (A1)
 
 ---
 
 <div align="center">
 
-### 🤝 ¿Colaboramos?
+### ¿Colaboramos?
 
 Estoy abierta a **oportunidades de prácticas, proyectos back-end y colaboraciones con IA**.
 
-[![](https://img.shields.io/badge/📧_Escribirme-ummel.devs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ummel.devs@gmail.com)
-[![](https://img.shields.io/badge/💬_WhatsApp-319_313_8107-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573193138107)
+[![](https://img.shields.io/badge/Escribirme-ummel.devs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ummel.devs@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-319_313_8107-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573193138107)
 
 </div>
